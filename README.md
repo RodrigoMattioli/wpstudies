@@ -1,0 +1,2 @@
+# wpstudies
+Studying Wordpress
